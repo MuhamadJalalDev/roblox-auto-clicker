@@ -75,3 +75,8 @@ Free to use, modify, and redistribute.
 ---
 
 > Made with ♥ for Roblox players who like to grind smart.
+
+![Alt text](https://github.com/MuhamadJalalDev/roblox-auto-clicker/blob/main/img/Screenshot%202025-07-02%20155020.png)
+![Alt text](https://github.com/MuhamadJalalDev/roblox-auto-clicker/blob/main/img/Screenshot%202025-07-02%20155039.png)
+
+
