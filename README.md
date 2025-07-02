@@ -1,7 +1,6 @@
-# Logicate AutoClicker 🎮  
-**The Ultimate Auto Clicker for Roblox – Free, Safe, and Open Source**
+# Roblox Auto Clicker – Free & Open Source Tool with Game Presets
 
-Roblox Clicker Pro is a powerful, flexible auto clicker designed specifically for Roblox players who want to grind faster, hatch eggs, farm mastery, collect pollen, or max out their clicking power — all with full control and anti-detection features.
+Logicate Autoclicker is a powerful, flexible auto clicker designed specifically for Roblox players who want to grind faster, hatch eggs, farm mastery, collect pollen, or max out their clicking power — all with full control and anti-detection features.
 
 Whether you're playing Pet Sim 99, Blox Fruits, Bee Swarm, or any click-based game, this tool is built to make your grind easier without risking bans.
 
