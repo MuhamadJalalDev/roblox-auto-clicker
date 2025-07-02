@@ -1,0 +1,54 @@
+{
+    "area_bounds": [
+        900,
+        400,
+        1020,
+        600
+    ],
+    "auto_breaks": false,
+    "base_delay": 0.001,
+    "break_duration": [
+        30,
+        90
+    ],
+    "break_interval": [
+        600,
+        900
+    ],
+    "burst_mode": true,
+    "burst_size": 10,
+    "circular_center": [
+        960,
+        540
+    ],
+    "circular_radius": 50,
+    "click_count": 132,
+    "click_limit": 0,
+    "click_pattern": "single",
+    "click_type": 3,
+    "current_angle": 0,
+    "current_preset": "Tapping Legends - Max CPS",
+    "fixed_position": [
+        960,
+        540
+    ],
+    "follow_mouse": true,
+    "gradual_speed": false,
+    "hotkey_panic": "F8",
+    "hotkey_start": "F6",
+    "hotkey_stop": "F7",
+    "last_break_time": 1751395620.6697848,
+    "mouse_button": "left",
+    "mouse_jitter": false,
+    "multi_points": [
+        [
+            960,
+            540
+        ]
+    ],
+    "randomize_delay": false,
+    "roblox_only": true,
+    "running": false,
+    "session_limit": 0,
+    "start_time": 1751395620.669784
+}
