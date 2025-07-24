@@ -4,6 +4,7 @@ Logicate Autoclicker is a powerful, flexible auto clicker designed specifically 
 
 Whether you're playing Pet Sim 99, Blox Fruits, Bee Swarm, or any click-based game, this tool is built to make your grind easier without risking bans.
 
+here is the source forge direct link to download it----> https://sourceforge.net/projects/logicateautoclicker-roblox/
 ---
 
 ## 🔥 Features
@@ -76,7 +77,10 @@ Free to use, modify, and redistribute.
 
 > Made with ♥ for Roblox players who like to grind smart.
 
+above 500 weekly downloads!!
+![Alt text](https://github.com/MuhamadJalalDev/roblox-auto-clicker/blob/main/img/Screenshot%202025-07-24%20143422.png)
 ![Alt text](https://github.com/MuhamadJalalDev/roblox-auto-clicker/blob/main/img/Screenshot%202025-07-02%20155020.png)
 ![Alt text](https://github.com/MuhamadJalalDev/roblox-auto-clicker/blob/main/img/Screenshot%202025-07-02%20155039.png)
+
 
 
